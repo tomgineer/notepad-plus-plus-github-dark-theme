@@ -73,4 +73,4 @@ Adapted and maintained for Notepad++ by **Tom Papatolis** (2026).
 
 `GitHubDark.xml` is a modified version of the GPL-2-licensed Notepad++ `DarkModeDefault.xml` theme and is distributed under the **GNU General Public License, version 2**. See [LICENSE](LICENSE).
 
-The GitHub Dark color palette is credited to its upstream source in the [Credits](#credits) section above. The original projects and their contributors retain their respective rights.
+The original projects and their contributors retain their respective rights.
