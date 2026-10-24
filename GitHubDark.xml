@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!--
-GitHub Dark (Highlight.js) for Notepad++.
-Based on DarkModeDefault.xml (Zenburn-derived), GPL-2.0.
-Palette: https://github.com/highlightjs/highlight.js/blob/main/src/styles/github-dark.css
-Theme author: github.com; Highlight.js maintainer: @Hirse.
-Notepad++ editor UI colors are adapted for controls absent from Highlight.js.
-Compatible with the Notepad++ v8.9.8.1 style model, checked 2026-10-24.
-Style labels and model date are synchronized with the released style model.
-Lexer names, syntax style IDs, keyword classes and colorStyle flags are preserved.
--->
 <NotepadPlus modelDate="20260525">
     <LexerStyles>
         <LexerType name="actionscript" desc="ActionScript" ext="">
